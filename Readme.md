@@ -5,8 +5,15 @@ I stole this latex template from https://www.overleaf.com/project/5f95d40d700e19
 # Use
 
 ```
-node character.json > character.tex
+node gen.js character.json > character.tex
 pdflatex character.tex
 ```
 
 Generates character.pdf
+
+# Generate Sample
+
+``` js
+ node gen.js examples/json/cljson.json > examples.tex
+ pdflatex examples.tex 
+```

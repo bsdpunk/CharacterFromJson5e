@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.24)  25 OCT 2020 14:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.24)  25 OCT 2020 17:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**main.tex
-(./main.tex
+**examples.tex
+(./examples.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-02-25>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -410,27 +410,27 @@ File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count266
 \l__pdf_internal_box=\box58
 )
-No file main.aux.
-\openout1 = `main.aux'.
+No file examples.aux.
+\openout1 = `examples.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count267
@@ -488,87 +488,95 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EveryShipout initializing macros
-<img/zitto.png, id=4, 211.2693pt x 298.9569pt>
-File: img/zitto.png Graphic file (type png)
-<use img/zitto.png>
-Package pdftex.def Info: img/zitto.png  used on input line 21.
-(pdftex.def)             Requested size: 211.26878pt x 298.95615pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 22.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 22.
-LaTeX Font Info:    Trying to load font information for T1+AuriocusKalligraphic
-us on input line 24.
+<img/gremlin.png, id=4, 404.712pt x 505.89pt>
+File: img/gremlin.png Graphic file (type png)
+<use img/gremlin.png>
+Package pdftex.def Info: img/gremlin.png  used on input line 18.
+(pdftex.def)             Requested size: 404.71101pt x 505.88875pt.
 
+Overfull \hbox (104.79095pt too wide) in paragraph at lines 18--19
+[][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+LaTeX Font Info:    Trying to load font information for T1+AuriocusKalligraphic
+us on input line 21.
 (/usr/share/texlive/texmf-dist/tex/latex/aurical/T1AuriocusKalligraphicus.fd
 File: T1AuriocusKalligraphicus.fd 2006/01/01 font def. for AuriocusKalligraphic
 us, a calligraphic font along the handwriting of auriocus
 )
 
 LaTeX Font Warning: Font shape `T1/AuriocusKalligraphicus/m/n' will be
-(Font)              scaled to size 29.85593pt on input line 24.
+(Font)              scaled to size 29.85593pt on input line 21.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 30.
+(Font)              <14.4> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 30.
+(Font)              <7> on input line 26.
 
-Overfull \hbox (16.99998pt too wide) in paragraph at lines 19--39
-[]$[]$$[]$ 
+Overfull \hbox (16.99998pt too wide) in paragraph at lines 17--35
+[]$[]$$[]$
  []
 
 
 LaTeX Font Warning: Font shape `T1/AuriocusKalligraphicus/m/n' will be
-(Font)              scaled to size 13.13995pt on input line 42.
+(Font)              scaled to size 13.13995pt on input line 36.
 
 
 LaTeX Font Warning: Font shape `T1/AuriocusKalligraphicus/m/n' will be
-(Font)              scaled to size 24.88794pt on input line 46.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--62
-
- []
+(Font)              scaled to size 24.88794pt on input line 39.
 
 
 LaTeX Font Warning: Font shape `T1/AuriocusKalligraphicus/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 69.
+(Font)              scaled to size 17.27994pt on input line 70.
 
 <img/paper.jpg, id=6, 614.295pt x 794.97pt>
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 94.
+Package pdftex.def Info: img/paper.jpg  used on input line 79.
 (pdftex.def)             Requested size: 921.44023pt x 1192.45209pt.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/paper.jpg> <./img/zi
-tto.png>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/paper.jpg> <./img/gr
+emlin.png>] [2]
+Underfull \hbox (badness 1735) in paragraph at lines 82--109
+\T1/cmr/m/n/10.95 Hypnotic Pat-tern Stink-ing Cloud Wind Wall text-col-orO-
+ []
+
+
+Overfull \hbox (120.12167pt too wide) in paragraph at lines 81--121
+[][] \T1/cmr/m/n/10.95 %CON-TINUE OF EQUIP-MENT [] 
+ []
+
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 138.
+Package pdftex.def Info: img/paper.jpg  used on input line 121.
 (pdftex.def)             Requested size: 921.44023pt x 1192.45209pt.
- [2] (./main.aux) ) 
+[3] (./examples.aux) ) 
 Here is how much of TeX's memory you used:
  12573 strings out of 480987
- 251384 string characters out of 5915720
- 473467 words of memory out of 5000000
+ 251428 string characters out of 5915720
+ 472479 words of memory out of 5000000
  27850 multiletter control sequences out of 15000+600000
  544725 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,13n,60p,1158b,683s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}<
-/usr/share/texlive/texmf-dist/fonts/type1/public/aurical/AuriocusKalligraphicus
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-/usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/fon
-ts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-s
-uper/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/yfonts-t1/ygoth.pfb>
-Output written on main.pdf (2 pages, 3746975 bytes).
+ 60i,13n,60p,441b,687s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.en
+c}</usr/share/texlive/texmf-dist/fonts/type1/public/aurical/AuriocusKalligraphi
+cus.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/yfonts-t1/ygoth.pfb>
+Output written on examples.pdf (3 pages, 2439034 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
