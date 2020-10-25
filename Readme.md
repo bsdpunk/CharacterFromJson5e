@@ -9,6 +9,8 @@ node gen.js character.json > character.tex
 pdflatex character.tex
 ```
 
+Don't have json? You can use my CreateCharacter or CreateNPC funcion in dndshell. http://github.com/bsdpunk/dndshell
+
 Generates character.pdf
 
 # Generate Sample

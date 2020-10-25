@@ -38,7 +38,7 @@ console.log("\\textcolor{OCRA}{HP} \\circled{58} \\hspace{3cm} \\textcolor{OCRA}
 console.log("\\end{minipage}")
 console.log("\\vspace{0.5cm}")
 console.log("\\begin{quote}")
-console.log("\\textit{\\Fontauri \"Boblin is a rum gremlin, alienated from normal Gremlin society for trying to explain a philosophy about the greater good.\"}")
+console.log("\\textit{\\Fontauri \"" + res.Description +"\"}")
 console.log("\\end{quote}")
 console.log("\\begin{minipage}[t]{.5\\textwidth}")
 console.log("{\\huge \\Fontauri Features}\\")
