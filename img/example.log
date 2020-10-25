@@ -1,0 +1,1664 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.24)  25 OCT 2020 16:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**example.tex
+(/home/dusty/texmf/tex/latex/dnd/example.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-02-25> (/home/dusty/texmf/tex/latex/dnd/dndbook.cls
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-07-17 L3 programming layer (loader) 
+
+! Undefined control sequence.
+l.67   \bool
+            _new:N \g__expl_reload_bool
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.67   \bool_
+             new:N \g__expl_reload_bool
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67   \bool_
+             new:N \g__expl_reload_bool
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 67.
+! Undefined control sequence.
+l.67   \bool_new:N \g
+                     __expl_reload_bool
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.67   \bool_new:N \g__
+                       expl_reload_bool
+? 
+! Undefined control sequence.
+l.69 \tl
+        _if_exist:NF \c__expl_def_ext_tl
+? 
+
+LaTeX Warning: Command \c invalid in math mode on input line 69.
+
+
+LaTeX Warning: Command \c invalid in math mode on input line 69.
+
+LaTeX Font Info:    Trying to load font information for +cmr on input line 69.
+LaTeX Font Info:    No file cmr.fd. on input line 69.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 69.
+
+! Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.69 \tl_if_exist:NF \c_
+                        _expl_def_ext_tl
+? 
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 69.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 \tl_if_exist:NF \c_
+                        _expl_def_ext_tl
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.69 \tl_if_exist:NF \c_
+                        _expl_def_ext_tl
+? 
+! Extra }, or forgotten $.
+\UseTextAccent  ...e@text@encoding \@curr@enc #3}}
+                                                  
+l.69 \tl_if_exist:NF \c_
+                        _expl_def_ext_tl
+? 
+! Undefined control sequence.
+l.70   { \tl
+            _const:Nn \c__expl_def_ext_tl { def } }
+? 
+
+LaTeX Warning: Command \c invalid in math mode on input line 70.
+
+
+LaTeX Warning: Command \c invalid in math mode on input line 70.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.70   { \tl_const:Nn \c_
+                         _expl_def_ext_tl { def } }
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.70   { \tl_const:Nn \c_
+                         _expl_def_ext_tl { def } }
+? 
+! Extra }, or forgotten $.
+l.70 ...\tl_const:Nn \c__expl_def_ext_tl { def } }
+                                                  
+? 
+! Undefined control sequence.
+l.71 \cs
+        _gset_protected:Npn \__kernel_sys_configuration_load:n #1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.71 ...d:Npn \__kernel_sys_configuration_load:n #
+                                                  1
+? 
+! Undefined control sequence.
+l.74     \cs
+            _undefine:c { ver@ #1 .def }
+? 
+! You can't use `macro parameter character #' in math mode.
+l.74     \cs_undefine:c { ver@ #
+                                1 .def }
+? 
+! Argument of \@onefilewithoptions has an extra }.
+<inserted text> 
+                \par 
+l.78   }
+        
+? 
+Runaway argument?
+ ] [ ] \c __expl_def_ext_tl \ExplSyntaxOn 
+! Paragraph ended before \@onefilewithoptions was complete.
+<to be read again> 
+                   \par 
+l.78   }
+        
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78   }
+        
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.78   }
+        
+? 
+! Undefined control sequence.
+l.79 \cs
+        _gset_protected:Npn \__kernel_sys_configuration_load_std:n #1
+? 
+! You can't use `macro parameter character #' in math mode.
+l.79 ...n \__kernel_sys_configuration_load_std:n #
+                                                  1
+? 
+! Undefined control sequence.
+l.81     \cs
+            _undefine:c { ver@ #1 .def }
+? 
+! You can't use `macro parameter character #' in math mode.
+l.81     \cs_undefine:c { ver@ #
+                                1 .def }
+? 
+! Argument of \@onefilewithoptions has an extra }.
+<inserted text> 
+                \par 
+l.84   }
+        
+? 
+Runaway argument?
+ ] [ ] \c __expl_def_ext_tl 
+! Paragraph ended before \@onefilewithoptions was complete.
+<to be read again> 
+                   \par 
+l.84   }
+        
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.84   }
+        
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.84   }
+        
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.84   }
+        
+? 
+! Undefined control sequence.
+l.85 \clist
+           _if_exist:NF \l__expl_options_clist
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 85.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.85 \clist_if_exist:NF \l__
+                            expl_options_clist
+? 
+! Undefined control sequence.
+l.86   { \clist
+               _new:N \l__expl_options_clist }
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 86.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.86   { \clist_new:N \l__
+                          expl_options_clist }
+? 
+! Undefined control sequence.
+l.90 \keys
+          _define:nn { sys }
+? 
+! Double subscript.
+l.90 \keys_
+           define:nn { sys }
+? 
+! Undefined control sequence.
+l.94       { \sys
+                 _load_backend:n {#1} } ,
+? 
+! You can't use `macro parameter character #' in math mode.
+l.94       { \sys_load_backend:n {#
+                                   1} } ,
+? 
+! Undefined control sequence.
+l.97         \sys
+                 _load_debug:
+? 
+! Undefined control sequence.
+l.98         \debug
+                   _on:n { check-declarations }
+? 
+! You can't use `macro parameter character #' in math mode.
+l.100     driver .meta:n = { backend = #
+                                        1 } ,
+? 
+! Undefined control sequence.
+l.102       \sys
+                _load_debug: ,
+? 
+! Undefined control sequence.
+l.105         \sys
+                  _load_debug:
+? 
+! Undefined control sequence.
+l.106         \debug
+                    _on:n { log-functions }
+? 
+! Undefined control sequence.
+l.109       = \g
+                __kernel_backend_header_bool ,
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.109       = \g__
+                  kernel_backend_header_bool ,
+? 
+! Undefined control sequence.
+l.113         \bool
+                   _gset_true:N \g__kernel_deprecation_undo_recent_bool
+? 
+! Undefined control sequence.
+l.113         \bool_gset_true:N \g
+                                  __kernel_deprecation_undo_recent_bool
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.113         \bool_gset_true:N \g__
+                                    kernel_deprecation_undo_recent_bool
+? 
+! Undefined control sequence.
+l.114         \sys
+                  _load_deprecation:
+? 
+! Undefined control sequence.
+l.117 \cs
+         _if_exist:NF \@expl@sys@load@backend@@
+? 
+! Undefined control sequence.
+l.117 \cs_if_exist:NF \@expl@sys@load@backend@@
+                                               
+? 
+! Undefined control sequence.
+l.119     \tl
+             _put_left:Nn \document
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.119     \tl_put_left:Nn \document
+                                   
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.119     \tl_put_left:Nn \document
+                                   
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.119     \tl_put_left:Nn \document
+                                   
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.119     \tl_put_left:Nn \document
+                                   
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.119     \tl_put_left:Nn \document
+                                   
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.119     \tl_put_left:Nn \document
+                                   
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.119     \tl_put_left:Nn \document
+                                   
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.119     \tl_put_left:Nn \document
+                                   
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.119     \tl_put_left:Nn \document
+                                   
+? 
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count167
+\l__pdf_internal_box=\box45
+)
+(/home/dusty/texmf/tex/latex/dnd/example.aux
+! Undefined control sequence.
+l.3 \pgfsyspdfmark
+                   {pgfid1}{3552215}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.4 \pgfsyspdfmark
+                   {pgfid2}{20129219}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.5 \pgfsyspdfmark
+                   {pgfid3}{36706222}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+
+Package babel Warning: Unknown language `english'. Very likely you
+(babel)                requested it in a previous run. Expect some
+(babel)                wrong results in this run, which should vanish
+(babel)                in the next one. Reported on input line 6.
+
+! Undefined control sequence.
+l.8 \pgfsyspdfmark
+                   {pgfid4}{3552215}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.9 \pgfsyspdfmark
+                   {pgfid5}{20129219}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.10 \pgfsyspdfmark
+                    {pgfid6}{36706222}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.11 \pgfsyspdfmark
+                    {pgfid7}{6139554}{2273397}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Undefined control sequence.
+l.12 \pgfsyspdfmark
+                    {pgfid8}{3552215}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.13 \pgfsyspdfmark
+                    {pgfid9}{20129219}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.14 \pgfsyspdfmark
+                    {pgfid10}{36706222}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.16 \pgfsyspdfmark
+                    {pgfid11}{36706222}{2273397}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Undefined control sequence.
+l.17 \pgfsyspdfmark
+                    {pgfid12}{3552215}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.18 \pgfsyspdfmark
+                    {pgfid13}{20129219}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.19 \pgfsyspdfmark
+                    {pgfid14}{36706222}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.45 \pgfsyspdfmark
+                    {pgfid15}{8981948}{2273397}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Undefined control sequence.
+l.46 \pgfsyspdfmark
+                    {pgfid19}{3552215}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.47 \pgfsyspdfmark
+                    {pgfid20}{20129219}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.48 \pgfsyspdfmark
+                    {pgfid21}{36706222}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.54 \pgfsyspdfmark
+                    {pgfid22}{36706222}{2273397}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Undefined control sequence.
+l.55 \pgfsyspdfmark
+                    {pgfid28}{3552215}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.56 \pgfsyspdfmark
+                    {pgfid29}{20129219}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.57 \pgfsyspdfmark
+                    {pgfid30}{36706222}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.61 \pgfsyspdfmark
+                    {pgfid31}{11817014}{2273396}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+! Undefined control sequence.
+l.62 \pgfsyspdfmark
+                    {pgfid32}{3552215}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.63 \pgfsyspdfmark
+                    {pgfid33}{20129219}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.64 \pgfsyspdfmark
+                    {pgfid34}{36706222}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.66 \pgfsyspdfmark
+                    {pgfid35}{36706222}{2273397}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+! Undefined control sequence.
+l.67 \pgfsyspdfmark
+                    {pgfid38}{3552215}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.68 \pgfsyspdfmark
+                    {pgfid39}{20129219}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.69 \pgfsyspdfmark
+                    {pgfid40}{36706222}{51340433}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+! Undefined control sequence.
+l.77 \pgfsyspdfmark
+                    {pgfid41}{8541559}{2273396}
+? 
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 6 in font nullfont!
+! Undefined control sequence.
+l.78 \ttl@finishall
+                   
+? 
+)
+\openout1 = `example.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
+LaTeX Font Info:    ... okay on input line 119.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119     \tl_put_left:Nn \document
+                                   
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.121         \endgroup
+                       
+? 
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.121         \endgroup
+                       
+? 
+! Undefined control sequence.
+l.122         \@expl@sys@load@backend@@
+                                       
+? 
+! Extra }, or forgotten \endgroup.
+l.124       }
+             
+? 
+! Extra }, or forgotten \endgroup.
+l.125   }
+         
+? 
+! Undefined control sequence.
+l.126 \cs
+         _gset_protected:Npn \@expl@sys@load@backend@@
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.126 \cs_
+          gset_protected:Npn \@expl@sys@load@backend@@
+? 
+! Undefined control sequence.
+l.126 ...t_protected:Npn \@expl@sys@load@backend@@
+                                                  
+? 
+! Undefined control sequence.
+l.128     \str
+              _if_exist:NF \c_sys_backend_str
+? 
+
+LaTeX Warning: Command \c invalid in math mode on input line 128.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.128     \str_if_exist:NF \c_
+                              sys_backend_str
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.128     \str_if_exist:NF \c_
+                              sys_backend_str
+? 
+! Undefined control sequence.
+l.129       { \sys
+                  _load_backend:n { } }
+? 
+! Extra }, or forgotten $.
+l.130   }
+         
+? 
+! Undefined control sequence.
+l.131 \keys
+           _set:nV { sys } \l__expl_options_clist
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 131.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.131 \keys_set:nV { sys } \l__
+                               expl_options_clist
+? 
+! Undefined control sequence.
+l.132 \str
+          _if_exist:NF \c_sys_backend_str
+? 
+
+LaTeX Warning: Command \c invalid in math mode on input line 132.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.132 \str_if_exist:NF \c_
+                          sys_backend_str
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.132 \str_if_exist:NF \c_
+                          sys_backend_str
+? 
+! Undefined control sequence.
+l.133   { \sys
+              _load_backend:n { } }
+? 
+! Undefined control sequence.
+l.134 \bool
+           _if:NT \g__expl_reload_bool
+? 
+! Undefined control sequence.
+l.134 \bool_if:NT \g
+                    __expl_reload_bool
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.134 \bool_if:NT \g__
+                      expl_reload_bool
+? 
+! Undefined control sequence.
+l.136     \cs
+             _gset_eq:NN \__kernel_sys_configuration_load:n
+? 
+! Undefined control sequence.
+l.139     \file
+               _input_stop:
+? 
+! Undefined control sequence.
+l.141 \cs
+         _if_free:cTF { ver@expl3.sty }
+? 
+! Undefined control sequence.
+l.143     \tex
+              _everyjob:D \exp_after:wN
+? 
+! Undefined control sequence.
+l.145         \tex
+                  _the:D \tex_everyjob:D
+? 
+! Undefined control sequence.
+l.145         \tex_the:D \tex
+                             _everyjob:D
+? 
+! Undefined control sequence.
+l.146         \sys
+                  _everyjob:
+? 
+! Undefined control sequence.
+l.149   { \sys
+              _everyjob: }
+? 
+! Undefined control sequence.
+l.150 \reverse
+              _if:N \if_cs_exist:N \s__expl_stop
+? 
+! Undefined control sequence.
+l.153 \cs
+         _if_exist:NF \@expl@push@filename@@
+? 
+! Undefined control sequence.
+l.153 \cs_if_exist:NF \@expl@push@filename@@
+                                            
+? 
+! Undefined control sequence.
+l.155     \tl
+             _put_left:Nn  \@pushfilename { \@expl@push@filename@@ }
+? 
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155     \tl_put_left:Nn  \@pushfilename
+                                          { \@expl@push@filename@@ }
+? 
+! Undefined control sequence.
+l.155 ...  \@pushfilename { \@expl@push@filename@@
+                                                   }
+? 
+! Undefined control sequence.
+l.156     \tl
+             _put_right:Nn \@pushfilename { \@expl@push@filename@aux@@ }
+? 
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156     \tl_put_right:Nn \@pushfilename
+                                          { \@expl@push@filename@aux@@ }
+? 
+! Undefined control sequence.
+l.156 ...pushfilename { \@expl@push@filename@aux@@
+                                                   }
+? 
+! Undefined control sequence.
+l.158 \cs
+         _gset_protected:Npn \@expl@push@filename@@
+? 
+! Undefined control sequence.
+l.158 ...gset_protected:Npn \@expl@push@filename@@
+                                                  
+? 
+! Undefined control sequence.
+l.162         \tl
+                 _to_str:N \@currname .
+? 
+! Undefined control sequence.
+l.163         \tl
+                 _to_str:N \@currext
+? 
+! Undefined control sequence.
+l.165     \tl
+             _put_left:Nx \l__expl_status_stack_tl
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 165.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.165     \tl_put_left:Nx \l__
+                              expl_status_stack_tl
+? 
+! Undefined control sequence.
+l.167         \bool
+                   _if:NTF \l__kernel_expl_bool
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 167.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.167         \bool_if:NTF \l__
+                               kernel_expl_bool
+? 
+! Undefined control sequence.
+l.173 \cs
+         _gset_protected:Npn \@expl@push@filename@aux@@ #1#2#3
+? 
+! Undefined control sequence.
+l.173 ..._protected:Npn \@expl@push@filename@aux@@
+                                                   #1#2#3
+? 
+! You can't use `macro parameter character #' in math mode.
+l.173 ...rotected:Npn \@expl@push@filename@aux@@ #
+                                                  1#2#3
+? 
+! You can't use `macro parameter character #' in math mode.
+l.173 ...tected:Npn \@expl@push@filename@aux@@ #1#
+                                                  2#3
+? 
+! You can't use `macro parameter character #' in math mode.
+l.173 ...cted:Npn \@expl@push@filename@aux@@ #1#2#
+                                                  3
+? 
+! Undefined control sequence.
+l.175     \str
+              _gset:Nn \g_file_curr_name_str {#3}
+? 
+! Undefined control sequence.
+l.175     \str_gset:Nn \g
+                         _file_curr_name_str {#3}
+? 
+! You can't use `macro parameter character #' in math mode.
+l.175     \str_gset:Nn \g_file_curr_name_str {#
+                                               3}
+? 
+! You can't use `macro parameter character #' in math mode.
+l.176     #
+           1 #2 {#3}
+? 
+! You can't use `macro parameter character #' in math mode.
+l.176     #1 #
+              2 {#3}
+? 
+! You can't use `macro parameter character #' in math mode.
+l.176     #1 #2 {#
+                  3}
+? 
+! Undefined control sequence.
+l.178 \cs
+         _if_exist:NF \@expl@pop@filename@@
+? 
+! Undefined control sequence.
+l.178 \cs_if_exist:NF \@expl@pop@filename@@
+                                           
+? 
+! Undefined control sequence.
+l.180     \tl
+             _put_right:Nn \@popfilename
+? 
+
+! LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.180     \tl_put_right:Nn \@popfilename
+                                        
+? 
+! Undefined control sequence.
+l.181       { \@expl@pop@filename@@
+                                    }
+? 
+! Undefined control sequence.
+l.183 \cs
+         _gset_protected:Npn \@expl@pop@filename@@
+? 
+! Undefined control sequence.
+l.183 \cs_gset_protected:Npn \@expl@pop@filename@@
+                                                  
+? 
+! Undefined control sequence.
+l.186     \tl
+             _if_empty:NTF \l__expl_status_stack_tl
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 186.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.186     \tl_if_empty:NTF \l__
+                               expl_status_stack_tl
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 188.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.188 ...{ \exp_after:wN \__expl_status_pop:w \l__
+                                                  expl_status_stack_tl \s__e...
+
+? 
+! Undefined control sequence.
+l.188 ..._status_pop:w \l__expl_status_stack_tl \s
+                                                  __expl_stop }
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.188 ...tatus_pop:w \l__expl_status_stack_tl \s__
+                                                  expl_stop }
+? 
+! Undefined control sequence.
+l.190 \cs
+         _gset_protected:Npn \__expl_status_pop:w #1#2 \s__expl_stop
+? 
+! Double subscript.
+l.190 \cs_
+          gset_protected:Npn \__expl_status_pop:w #1#2 \s__expl_stop
+? 
+! You can't use `macro parameter character #' in math mode.
+l.190 ...gset_protected:Npn \__expl_status_pop:w #
+                                                  1#2 \s__expl_stop
+? 
+! You can't use `macro parameter character #' in math mode.
+l.190 ...et_protected:Npn \__expl_status_pop:w #1#
+                                                  2 \s__expl_stop
+? 
+! Undefined control sequence.
+l.190 ...rotected:Npn \__expl_status_pop:w #1#2 \s
+                                                  __expl_stop
+? 
+! Missing { inserted.
+<to be read again> 
+                   _
+l.190 ...tected:Npn \__expl_status_pop:w #1#2 \s__
+                                                  expl_stop
+? 
+! Undefined control sequence.
+l.192     \tl
+             _set:Nn \l__expl_status_stack_tl {#2}
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 192.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.192     \tl_set:Nn \l__
+                         expl_status_stack_tl {#2}
+? 
+! You can't use `macro parameter character #' in math mode.
+l.192     \tl_set:Nn \l__expl_status_stack_tl {#
+                                                2}
+? 
+! You can't use `macro parameter character #' in math mode.
+l.193     \int_if_odd:nTF {#
+                            1}
+? 
+! Undefined control sequence.
+l.197 \tl
+         _if_exist:NF \l__expl_status_stack_tl
+? 
+! Double subscript.
+l.197 \tl_
+          if_exist:NF \l__expl_status_stack_tl
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 197.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.197 \tl_if_exist:NF \l__
+                          expl_status_stack_tl
+? 
+! Undefined control sequence.
+l.199     \tl
+             _new:N \l__expl_status_stack_tl
+? 
+
+LaTeX Warning: Command \l invalid in math mode on input line 199.
+
+! Missing { inserted.
+<to be read again> 
+                   _
+l.199     \tl_new:N \l__
+                        expl_status_stack_tl
+? 
+! Undefined control sequence.
+l.200     \tl
+             _set:Nn \l__expl_status_stack_tl { 0 }
+? 
+! Emergency stop.
+l.200     \tl
+             _set:Nn \l__expl_status_stack_tl { 0 }
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 209 strings out of 480987
+ 5072 string characters out of 5915720
+ 241823 words of memory out of 5000000
+ 15807 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,18n,27p,289b,118s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
