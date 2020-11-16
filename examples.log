@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.24)  25 OCT 2020 17:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.11.15)  15 NOV 2020 22:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **examples.tex
 (./examples.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-02-25>
+L3 programming layer <2020-07-17>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
@@ -61,9 +61,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count175
-\Gm@cntv=\count176
-\c@Gm@tempcnt=\count177
+\Gm@cnth=\count176
+\Gm@cntv=\count177
+\c@Gm@tempcnt=\count178
 \Gm@bindingoffset=\dimen137
 \Gm@wd@mp=\dimen138
 \Gm@odd@mp=\dimen139
@@ -127,7 +127,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \TX@old@col=\dimen149
 \TX@target=\dimen150
 \TX@delta=\dimen151
-\TX@cols=\count178
+\TX@cols=\count179
 \TX@ftn=\toks20
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ncctools/watermark.sty
@@ -178,14 +178,14 @@ ex
 \pgf@yd=\dimen163
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count179
-\c@pgf@countb=\count180
-\c@pgf@countc=\count181
-\c@pgf@countd=\count182
+\c@pgf@counta=\count180
+\c@pgf@countb=\count181
+\c@pgf@countc=\count182
+\c@pgf@countd=\count183
 \t@pgf@toka=\toks25
 \t@pgf@tokb=\toks26
 \t@pgf@tokc=\toks27
-\pgf@sys@id@count=\count183
+\pgf@sys@id@count=\count184
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
@@ -201,8 +201,8 @@ File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count184
-\pgfsyssoftpath@bigbuffer@items=\count185
+\pgfsyssoftpath@smallbuffer@items=\count185
+\pgfsyssoftpath@bigbuffer@items=\count186
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -216,7 +216,7 @@ Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen164
-\pgfmath@count=\count186
+\pgfmath@count=\count187
 \pgfmath@box=\box48
 \pgfmath@toks=\toks28
 \pgfmath@stack@operand=\toks29
@@ -240,7 +240,7 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count187
+\c@pgfmathroundto@lastzeros=\count188
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
@@ -279,7 +279,7 @@ File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box49
 \pgf@hbox=\box50
 \pgf@layerbox@main=\box51
-\pgf@picture@serial@count=\count188
+\pgf@picture@serial@count=\count189
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
@@ -312,8 +312,8 @@ File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@max=\dimen188
-\pgf@sys@shading@range@num=\count189
-\pgf@shadingcount=\count190
+\pgf@sys@shading@range@num=\count190
+\pgf@shadingcount=\count191
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -373,7 +373,7 @@ Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count191
+\pgf@plot@mark@count=\count192
 \pgfplotmarksize=\dimen193
 )
 \tikz@lastx=\dimen194
@@ -388,18 +388,18 @@ File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikz@figbox@bg=\box55
 \tikz@tempbox=\box56
 \tikz@tempbox@bg=\box57
-\tikztreelevel=\count192
-\tikznumberofchildren=\count193
-\tikznumberofcurrentchild=\count194
-\tikz@fig@count=\count195
+\tikztreelevel=\count193
+\tikznumberofchildren=\count194
+\tikznumberofcurrentchild=\count195
+\tikz@fig@count=\count196
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count196
-\pgfmatrixcurrentcolumn=\count197
-\pgf@matrix@numberofcolumns=\count198
+\pgfmatrixcurrentrow=\count197
+\pgfmatrixcurrentcolumn=\count198
+\pgf@matrix@numberofcolumns=\count199
 )
-\tikz@expandcount=\count199
+\tikz@expandcount=\count266
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -407,10 +407,10 @@ File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count266
+\l__kernel_color_stack_int=\count267
 \l__pdf_internal_box=\box58
 )
-No file examples.aux.
+(./examples.aux)
 \openout1 = `examples.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
@@ -431,18 +431,19 @@ LaTeX Font Info:    Checking defaults for LY/yfrak/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for LYG/ygoth/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count267
+\scratchcounter=\count268
 \scratchdimen=\dimen258
 \scratchbox=\box59
-\nofMPsegments=\count268
-\nofMParguments=\count269
+\nofMPsegments=\count269
+\nofMParguments=\count270
 \everyMPshowfont=\toks33
-\MPscratchCnt=\count270
+\MPscratchCnt=\count271
 \MPscratchDim=\dimen259
-\MPnumerator=\count271
-\makeMPintoPDFobject=\count272
+\MPnumerator=\count272
+\makeMPintoPDFobject=\count273
 \everyMPtoPDFconversion=\toks34
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -488,16 +489,11 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EveryShipout initializing macros
-<img/gremlin.png, id=4, 404.712pt x 505.89pt>
-File: img/gremlin.png Graphic file (type png)
-<use img/gremlin.png>
-Package pdftex.def Info: img/gremlin.png  used on input line 18.
-(pdftex.def)             Requested size: 404.71101pt x 505.88875pt.
-
-Overfull \hbox (104.79095pt too wide) in paragraph at lines 18--19
-[][] 
- []
-
+<img/grem.png, id=4, 211.2693pt x 298.9569pt>
+File: img/grem.png Graphic file (type png)
+<use img/grem.png>
+Package pdftex.def Info: img/grem.png  used on input line 18.
+(pdftex.def)             Requested size: 211.26878pt x 298.95615pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -506,6 +502,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 19.
 LaTeX Font Info:    Trying to load font information for T1+AuriocusKalligraphic
 us on input line 21.
+
 (/usr/share/texlive/texmf-dist/tex/latex/aurical/T1AuriocusKalligraphicus.fd
 File: T1AuriocusKalligraphicus.fd 2006/01/01 font def. for AuriocusKalligraphic
 us, a calligraphic font along the handwriting of auriocus
@@ -543,7 +540,7 @@ Package pdftex.def Info: img/paper.jpg  used on input line 79.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/paper.jpg> <./img/gr
-emlin.png>] [2]
+em.png>]
 Underfull \hbox (badness 1735) in paragraph at lines 82--109
 \T1/cmr/m/n/10.95 Hypnotic Pat-tern Stink-ing Cloud Wind Wall text-col-orO-
  []
@@ -557,15 +554,15 @@ File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
 Package pdftex.def Info: img/paper.jpg  used on input line 121.
 (pdftex.def)             Requested size: 921.44023pt x 1192.45209pt.
-[3] (./examples.aux) ) 
+[2] (./examples.aux) ) 
 Here is how much of TeX's memory you used:
- 12573 strings out of 480987
- 251428 string characters out of 5915720
- 472479 words of memory out of 5000000
- 27850 multiletter control sequences out of 15000+600000
- 544725 words of font info for 49 fonts, out of 8000000 for 9000
+ 12566 strings out of 480906
+ 251310 string characters out of 5910771
+ 476142 words of memory out of 5000000
+ 27927 multiletter control sequences out of 15000+600000
+ 547475 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,13n,60p,441b,687s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,13n,60p,441b,686s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.en
 c}</usr/share/texlive/texmf-dist/fonts/type1/public/aurical/AuriocusKalligraphi
 cus.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
@@ -573,10 +570,10 @@ b></usr/share/texmf/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/yfonts-t1/ygoth.pfb>
-Output written on examples.pdf (3 pages, 2439034 bytes).
+Output written on examples.pdf (2 pages, 2453401 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 47 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
